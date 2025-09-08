@@ -85,3 +85,12 @@
             border-left: 4px solid #bb86fc;
             margin-top: 15px;
         }
+
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            color: #666;
+            border-top: 1px solid #333;
+        }
+        

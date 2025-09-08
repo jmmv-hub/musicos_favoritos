@@ -93,4 +93,14 @@
             color: #666;
             border-top: 1px solid #333;
         }
+
+        @media (max-width: 768px) {
+            .musicos {
+                grid-template-columns: 1fr;
+            }
+            
+            .musico img {
+                height: 280px;
+            }
+        }
         

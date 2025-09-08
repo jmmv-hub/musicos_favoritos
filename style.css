@@ -77,3 +77,11 @@
             margin-bottom: 15px;
         }
         
+
+        .album {
+            background-color: #2d2d2d;
+            padding: 10px 15px;
+            border-radius: 5px;
+            border-left: 4px solid #bb86fc;
+            margin-top: 15px;
+        }

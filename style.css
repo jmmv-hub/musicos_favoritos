@@ -57,3 +57,23 @@
             transition: transform 0.3s ease;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
+
+        .musico:hover {
+            transform: translateY(-5px);
+        }
+        
+        .musico img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            display: block;
+        }
+        
+        .musico-info {
+            padding: 20px;
+        }
+        
+        .musico-info p {
+            margin-bottom: 15px;
+        }
+        
